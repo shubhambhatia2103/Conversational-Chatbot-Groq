@@ -17,4 +17,6 @@ To use this application, you need to have Streamlit and the other required Pytho
 Once you have the necessary requirements, you can run the application by executing the script with Streamlit:
 
 `streamlit run app.py`
+
+
 This will start the Streamlit server and open the application in your web browser. You can then interact with the chatbot, and the application will generate responses based on the history of the conversation.

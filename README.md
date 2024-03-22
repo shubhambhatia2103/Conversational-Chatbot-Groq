@@ -2,7 +2,7 @@
 
 This repository contains a Streamlit application that allows users to interact with a conversational chatbot powered by the LangChain API. The application uses the Groq API to generate responses and maintains a history of the conversation to provide context for the chatbot's responses.
 
-# Features
+## Features
 
 - **Conversational Interface:** The application provides a conversational interface where users can ask questions or make statements, and the chatbot responds accordingly.
 
@@ -10,7 +10,7 @@ This repository contains a Streamlit application that allows users to interact w
 
 - **LangChain Integration:** The chatbot is powered by the LangChain API, which uses advanced natural language processing techniques to generate human-like responses.
 
-# Usage
+## Usage
 
 To use this application, you need to have Streamlit and the other required Python libraries installed. You also need to have a Groq API key, which you can obtain by signing up on the Groq website.
 

@@ -17,7 +17,7 @@ To use this application, you need to have Streamlit and the other required Pytho
 Once you have the necessary requirements, you can run the application by executing the script with Streamlit:
 
 
-```http
+```
   streamlit run app.py
 ```
 

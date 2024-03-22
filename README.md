@@ -25,3 +25,10 @@ streamlit run app.py
 ```
 
 This will start the Streamlit server and open the application in your web browser. You can then interact with the chatbot, and the application will generate responses based on the history of the conversation.
+
+## Dependencies
+- ``streamlit``: For creating interactive web applications.
+- ``groq``: To interact with the Groq API.
+- ``langchain``: For managing conversational memory.
+- ``langchain-groq``: Integration for using Groq with Langchain.
+- ``python-dotenv``: For loading environment variables from .env.

@@ -32,3 +32,10 @@ This will start the Streamlit server and open the application in your web browse
 - ``langchain``: For managing conversational memory.
 - ``langchain-groq``: Integration for using Groq with Langchain.
 - ``python-dotenv``: For loading environment variables from .env.
+
+## Contact
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/shubhambhatia2103/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/shubhambhatia2103) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/6eingshubham) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="Twitter">](https://twitter.com/whoodattboyy)
+
+
+

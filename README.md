@@ -2,6 +2,8 @@
 
 This repository contains a Streamlit application that allows users to interact with a conversational chatbot powered by the LangChain API. The application uses the Groq API to generate responses and maintains a history of the conversation to provide context for the chatbot's responses.
 
+![ChatBot](Documentation/1_7VuPJFVIOkWRaDXjm1Libw.webp)  
+
 ## About Groq
 Groq is a powerful language model API that provides natural language processing capabilities for a wide range of applications. It offers state-of-the-art language understanding and generation capabilities, making it ideal for building conversational interfaces and text-based applications.
 
